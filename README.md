@@ -1,5 +1,5 @@
 # FiveDump-Working
-Fivem Dumper | Dump fivem servers for free
+Fivem Dumper | Dump fivem servers | download client side files from server
 
 GUI made by: Grizly#8648
 
